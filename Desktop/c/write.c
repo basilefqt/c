@@ -25,7 +25,6 @@ void iw(int a){
 
 int main(){
      iw(123);
-
 }
 
 
